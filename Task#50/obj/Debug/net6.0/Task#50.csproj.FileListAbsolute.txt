@@ -1,0 +1,15 @@
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\Task#50.csproj.AssemblyReference.cache
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\Task#50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\Task#50.AssemblyInfoInputs.cache
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\Task#50.AssemblyInfo.cs
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\Task#50.csproj.CoreCompileInputs.cache
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\bin\Debug\net6.0\Task#50.exe
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\bin\Debug\net6.0\Task#50.deps.json
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\bin\Debug\net6.0\Task#50.runtimeconfig.json
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\bin\Debug\net6.0\Task#50.dll
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\bin\Debug\net6.0\Task#50.pdb
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\Task#50.dll
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\refint\Task#50.dll
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\Task#50.pdb
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\Task#50.genruntimeconfig.cache
+C:\Users\Tarakas\Desktop\Homework_git&C#\Homework7_C#\Task#50\obj\Debug\net6.0\ref\Task#50.dll
