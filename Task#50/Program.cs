@@ -1,10 +1,10 @@
 ﻿Random rand = new Random();
-int[,] array = new int[5,5];
+int[,] array = new int[5, 5];
 FillMatrix(array);
-Console.WriteLine("My array:");
-Console.Write("Input line: ");
+Console.WriteLine();
+Console.Write("Input element of an array string: ");
 int findRows = Convert.ToInt32(Console.ReadLine()) - 1;
-Console.Write("Input column: ");
+Console.Write("Input element of an array column:");
 int findColumns = Convert.ToInt32(Console.ReadLine()) - 1;
 
 void FillMatrix(int[,] array)
@@ -16,15 +16,16 @@ void FillMatrix(int[,] array)
             array[i, j] = rand.Next(1, 15);
             Console.Write($"{array[i, j]}\t");
         }
-    }Console.WriteLine();
+        Console.Write(" ");
+        Console.WriteLine(" ");
+    }
 }
 
 for (int i = 0; i < array.GetLength(0); i++)
 {
     for (int j = 0; j < array.GetLength(1); j++)
     {
-        // array[i, j] = rand.Next(1, 15);
-        // Console.Write($"{array[i, j]}\t");
+        Console.Write($"{array[i, j]}\t");
     }
     Console.WriteLine();
 }
@@ -36,6 +37,6 @@ else
 {
     Console.WriteLine("Element number array = {0}", array[findRows, findColumns]);
 }
-Console.ReadLine();
+
 
 
